@@ -1,2 +1,2 @@
 # full-reactive-api
-Full Reactive Api with Spring Boot (WebFlux), MongoDB 
+Full Reactive Stack with Spring Boot, WebFlux and MongoDB
